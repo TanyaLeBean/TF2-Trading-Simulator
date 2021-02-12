@@ -1,3 +1,10 @@
 TF2 Trading Simulator:
 
--
+# Mechanics
+
+-yeah i can't organize this i'm just gunna dump shtuf below
+
+-start with $0.00
+-you can "play a game" (button, not anything too deep) and have a 10%(?) chance to get a weapon
+    gather weapons from wiki?
+.
