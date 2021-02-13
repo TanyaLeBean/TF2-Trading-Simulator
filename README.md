@@ -8,4 +8,4 @@ This isn't serious.
 PLEASE. I want to make this a thing, but I have next to no coding experience.
 
 ## pfft
-The most code I can contribute is probably some python shiBe so... yeah.
+The most code I can contribute is probably some python shiße so... yeah.
